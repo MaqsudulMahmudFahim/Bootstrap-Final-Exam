@@ -1,0 +1,7 @@
+font-family: 'Lato', sans-serif;
+
+ash colo: #e8ebf1;
+sky- #2aacc8;
+slider:#81e4ed;
+
+p-text:#363636;
